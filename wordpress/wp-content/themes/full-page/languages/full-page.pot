@@ -1,0 +1,440 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Full Page\n"
+"POT-Creation-Date: 2018-12-18 15:01+0530\n"
+"PO-Revision-Date: 2018-12-12 11:17+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:18
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"Looks like you have taken a wrong turn.....Dont worry... it happens to the "
+"best of us."
+msgstr ""
+
+#: archive.php:36 front-page.php:39 front-page.php:98 front-page.php:154
+msgid "Back"
+msgstr ""
+
+#: archive.php:37 front-page.php:40 front-page.php:99 front-page.php:155
+msgid "Next"
+msgstr ""
+
+#: archive.php:38
+msgid "Posts navigation"
+msgstr ""
+
+#: category.php:22
+msgid "Category: "
+msgstr ""
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:27
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: content-single.php:22 front-page.php:79 front-page.php:135 image.php:54
+#: page.php:28 template-fullwide.php:22
+msgid "Pages:"
+msgstr ""
+
+#: content-single.php:26 front-page.php:83 front-page.php:139 page.php:32
+#: template-fullwide.php:26
+msgid "Page"
+msgstr ""
+
+#: content.php:17
+msgid ", "
+msgstr ""
+
+#: content.php:24
+msgid "Read More &rarr;"
+msgstr ""
+
+#: content.php:28
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: customize-pro/example-1/class-customize.php:76
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: customize-pro/example-1/class-customize.php:77
+msgid "Upgrade Now"
+msgstr ""
+
+#: footer.php:13
+msgid "ClOSE SIDEBAR"
+msgstr ""
+
+#: footer.php:16
+msgid "OPEN SIDEBAR"
+msgstr ""
+
+#: functions.php:38
+msgid "Home Sibebar Navigation"
+msgstr ""
+
+#: functions.php:49
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:50
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: functions.php:65
+msgctxt "Roboto Condensed:on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:70
+msgctxt "Lato:on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:71
+msgctxt "Roboto:on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:72
+msgctxt "Open Sans:on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:73
+msgctxt "Assistant:on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:74
+msgctxt "Poppins:on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:75
+msgctxt "Montserrat:on or off"
+msgid "on"
+msgstr ""
+
+#: image.php:32 image.php:59
+msgid "Edit"
+msgstr ""
+
+#: inc/about-themes.php:5
+msgid "About Theme"
+msgstr ""
+
+#: inc/about-themes.php:15
+msgid "Theme Information"
+msgstr ""
+
+#: inc/about-themes.php:17
+msgid ""
+"SKT Full Page is full wide page slider which is simple, flexible, easy to "
+"use, WooCommerce friendly. Industries like food, recipe, chef, restaurant, "
+"bistro, cafe, model, portfolio, resume, IT software computers, maintenance, "
+"events, concerts, hotel, resort, motel, health, fitness, yoga and gym. "
+"WordPress 5.0 gutenberg editor friendly."
+msgstr ""
+
+#: inc/about-themes.php:23
+msgid "Live Demo"
+msgstr ""
+
+#: inc/about-themes.php:24
+msgid "Buy Pro"
+msgstr ""
+
+#: inc/about-themes.php:25
+msgid "Documentation"
+msgstr ""
+
+#: inc/customizer.php:71
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:72
+msgid "More color options in PRO Version"
+msgstr ""
+
+#: inc/customizer.php:79
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer.php:81
+msgid ""
+"Featured Image Size Should be ( 1400 X 789 ) More slider settings available "
+"in PRO Version"
+msgstr ""
+
+#: inc/customizer.php:91
+msgid "Select page for slide one:"
+msgstr ""
+
+#: inc/customizer.php:101
+msgid "Select page for slide two:"
+msgstr ""
+
+#: inc/customizer.php:111
+msgid "Select page for slide three:"
+msgstr ""
+
+#: inc/customizer.php:121
+msgid "Uncheck To Show Slider"
+msgstr ""
+
+#: inc/customizer.php:131
+msgid "Check To Hide Content Over Slider"
+msgstr ""
+
+#: inc/customizer.php:136
+msgid "Social Settings"
+msgstr ""
+
+#: inc/customizer.php:137
+msgid "More social icon available in PRO Version"
+msgstr ""
+
+#: inc/customizer.php:145
+msgid "Add Facebook link here"
+msgstr ""
+
+#: inc/customizer.php:154
+msgid "Add Twitter link here"
+msgstr ""
+
+#: inc/customizer.php:163
+msgid "Add Google plus link here"
+msgstr ""
+
+#: inc/customizer.php:172
+msgid "Add Pinterest link here"
+msgstr ""
+
+#: inc/customizer.php:181
+msgid "Add Youtube link here"
+msgstr ""
+
+#: inc/customizer.php:190
+msgid "Add Vimeo link here"
+msgstr ""
+
+#: inc/customizer.php:199
+msgid "Add Instagram link here"
+msgstr ""
+
+#: inc/customizer.php:208
+msgid "Add Flickr link here"
+msgstr ""
+
+#: inc/customizer.php:217
+msgid "Add Dribble link here"
+msgstr ""
+
+#: inc/customizer.php:226
+msgid "Add Foursquare link here"
+msgstr ""
+
+#: inc/customizer.php:235
+msgid "Add Behance link here"
+msgstr ""
+
+#: inc/customizer.php:244
+msgid "Add Linkedin link here"
+msgstr ""
+
+#: inc/template-tags.php:28
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:30
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: inc/template-tags.php:31
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: inc/template-tags.php:55
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:74
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:161
+msgctxt "Used before publish date."
+msgid "<span class=\"screen-reader-text\">Posted on</span>"
+msgstr ""
+
+#: no-results.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: %s: publish post started
+#: no-results.php:17
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:19
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: no-results.php:22
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. translators: %s: search term
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:10
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: sidebar-leftmenu.php:25 sidebar-leftmenu.php:26
+msgid "Menu"
+msgstr ""
+
+#: sidebar-leftmenu.php:49
+msgid "Facebook"
+msgstr ""
+
+#: sidebar-leftmenu.php:52
+msgid "Twitter"
+msgstr ""
+
+#: sidebar-leftmenu.php:55
+msgid "Google Plus"
+msgstr ""
+
+#: sidebar-leftmenu.php:58
+msgid "Pinterest"
+msgstr ""
+
+#: sidebar-leftmenu.php:61
+msgid "Youtube"
+msgstr ""
+
+#: sidebar-leftmenu.php:64
+msgid "Vimeo"
+msgstr ""
+
+#: sidebar-leftmenu.php:67
+msgid "Instagram"
+msgstr ""
+
+#: sidebar-leftmenu.php:70
+msgid "Flickr"
+msgstr ""
+
+#: sidebar-leftmenu.php:73
+msgid "Dribble"
+msgstr ""
+
+#: sidebar-leftmenu.php:76
+msgid "Foursquare"
+msgstr ""
+
+#: sidebar-leftmenu.php:79
+msgid "Behance"
+msgstr ""
+
+#: sidebar-leftmenu.php:82
+msgid "Linkedin"
+msgstr ""
+
+#: sidebar.php:10
+msgid "Category"
+msgstr ""
+
+#: sidebar.php:16
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:22
+msgid "Meta"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Full Page"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.sktthemes.net/shop/free-full-page-slider-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"SKT Full Page is full wide page slider which is simple, flexible, easy to "
+"use, WooCommerce friendly. Industries like food, recipe, chef, restaurant, "
+"bistro, cafe, model, portfolio, resume, IT software computers, maintenance, "
+"events, concerts, hotel, resort, motel, health, fitness, yoga and gym. "
+"WordPress 5.0 gutenberg editor friendly. Get documentation at http://"
+"sktthemesdemo.net/documentation/sktfullpage-documentation/ and view "
+"beautiful demo at https://www.sktperfectdemo.com/demos/fullpage/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.sktthemes.net"
+msgstr ""
